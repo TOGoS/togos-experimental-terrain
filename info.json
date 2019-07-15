@@ -1,0 +1,11 @@
+{
+  "name": "togos-experimental-terrain",
+  "version": "0.0.1", 
+  "title": "TOGoS's Experimental Terrain Generation",
+  "author": "TOGoS",
+  "contact": "togos00@gmail.com",
+  "homepage": "https://github.com/TOGoS/togos-experimental-terrain",
+  "factorio_version": "0.17",
+  "dependencies": [],
+  "description": "Can we make map generation way cooler?"
+}
